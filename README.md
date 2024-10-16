@@ -24,8 +24,7 @@ I'm a self-learned Web developer and designer. Planning and creating a real-life
 
 ### Others
 <img align="left" title="Audacity" alt="Audacity" width="25px" style="padding-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" />
-<img align="left" title="Musescore" alt="Musescore" width="25px" style="padding-right:8px" src="
-https://upload.wikimedia.org/wikipedia/commons/1/1d/Musescore_icon.svg" />
+<img align="left" title="Musescore" alt="Musescore" width="25px" style="padding-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Musescore_icon.svg" />
 <img align="left" title="Visual Studio Code" alt="VSCode" width="25px" style="padding-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <br />
 <br />
