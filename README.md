@@ -15,12 +15,11 @@ I'm a self-learned Web developer and designer. Planning and creating a real-life
 ### Language and tools
 [<img align="left" title="C++" alt="cpp" width="20px" style="padding-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />](https://www.isocpp.org/)
 [<img align="left" title="PHP" alt="php" width="40px" style="padding-right:8px" src="https://www.php.net/images/logos/new-php-logo.svg" />](http://php.net/)
-[<img align="left" title="JavaServlet" alt="JSP" width="19px" style="transform:translateY(-8px);padding-right:10px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />](https://www.java.com/en/)
 [<img align="left" title="JavaScript" alt="js" width="20px" style="padding-right:8px" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225993.png?f=webp&w=256" />](https://www.javascript.com/)
 [<img align="left" title="MathJax" alt="mathjax" width="20px" style="padding-right:8px" src="https://static-00.iconduck.com/assets.00/mathjax-icon-2048x1986-encb0l2p.png" />](https://www.mathjax.org/)
 [<img align="left" title="Plotly.js" alt="plotly.js" width="20px" style="padding-right:8px" src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" />](https://www.plotly.com/)
 [<img align="left" title="MariaDB" alt="mariadb" width="30px" style="padding-right:8px" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" />](https://www.mariadb.org/)
-
+[<img align="left" title="JavaServlet" alt="JSP" width="19px" style="transform:translateY(-8px);padding-right:10px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />](https://www.java.com/en/)
 <br />
 <br />
 
