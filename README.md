@@ -28,6 +28,7 @@ I'm a self-learned Web developer and designer. Planning and creating a real-life
 [<img align="left" title="Audacity" alt="Audacity" width="25px" style="padding-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" />](https://www.audacityteam.org/)
 [<img align="left" title="Musescore" alt="Musescore" width="25px" style="padding-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Musescore_icon.svg" />](https://www.musescore.org/)
 [<img align="left" title="Visual Studio Code" alt="VSCode" width="25px" style="padding-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](https://www.code.visualtudio.com/)
+[<img align="left" title="XAMPP" alt="XAMPP" width="25px" style="padding-right:8px" src="https://www.svgrepo.com/show/354575/xampp.svg" />](https://www.apachefriends.org/)
 <br />
 <br />
 
