@@ -54,7 +54,7 @@ When my friends and I finally graduated, I felt truly happy. We all made it, and
     <summary>
        How did I learned programming?
     </summary>
-    What I do is just read, then I practice after I'm done I make notes so that I don't forget because not all the codes you practice can be memorized easily.
+    What I usually do is read first, then practice. After that, I take notes so I don't forget, because not all the code I practice is easy to memorize.
 </details>
 <details>
    <summary>
