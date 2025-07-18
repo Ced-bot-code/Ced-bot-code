@@ -38,10 +38,17 @@ I'm a self-learned Web developer and designer. Planning and creating a real-life
 <summary>
 My Journey
 </summary>
-    When I was a high school student I have started to study about HTML and CSS and basic coding but QBASIC is what I taught in our time. I don't like QBASIC sorry. In 2015, I enrolled in Sibonga Community College as an IT Student. I just quit because it wasn't free at that time. What I did at that time, I studied a little about Algebra until I was trained to solve it even though it was difficult for me to overcome my needs so that I could learn. When I went back to school that was 2018, about two years had passed since I stopped. I was able to continue because the units are free hehehe. So I grabbed the opportunity to continue even though it was difficult about financial and material. I worked so that I could sustain my studies but I didn't last long but I am thankful to them that they helped me to go to school then I can continue with my plans in my life because I have something plans and desires.
+    When I was in high school, I started studying HTML, CSS, and basic coding. However, during that time, the programming language taught in school was QBASIC. Honestly, I didn’t like QBASIC—sorry!
 
-   When the lockdown came, I bought a phone to study and update my studies. Until I made a friend who had a computer, I slowly learned about programming until I learned. 
-When we finish and do our project, we will immediately bathe in the sea because they are near there. When I started my 3rd year second semester, I made friends with from different batch, so he did programming until I became friends with his other friends, then we went to wherever we went. We are still together in the capstone project. We will share our knowledge and any topics to talk about, stupid or right. When my friends and I graduated, I was happy that we all finished.
+In 2015, I enrolled at Sibonga Community College as an IT student. Unfortunately, I had to quit because tuition wasn't free back then. During that break, I studied a bit of Algebra. Even though it was challenging, I pushed through and trained myself to solve problems because I wanted to learn.
+
+I returned to school in 2018, about two years after I stopped. This time, the units were free—hehehe—so I grabbed the opportunity to continue, despite financial and material difficulties. I worked to support my studies, though I wasn’t able to stick with the job for long. Still, I’m very thankful to those who helped me continue going to school. Their support allowed me to keep pursuing my goals and dreams.
+
+When the lockdown came, I bought a phone so I could continue studying and keep up with my coursework. Eventually, I made a friend who had a computer, and little by little, I started learning more about programming. Once we finished our school projects, we would sometimes go swimming in the sea since they lived nearby.
+
+In my third year, second semester, I made new friends from other batches. One of them was also into programming, and through him, I met more friends. We hung out, worked on projects together, and shared knowledge—whether serious or silly topics, we talked about everything.
+
+When my friends and I finally graduated, I felt truly happy. We all made it, and I’m grateful we did it together.
 </details>
 <details>
     <summary>
