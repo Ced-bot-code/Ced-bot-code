@@ -1,7 +1,6 @@
 ### Good day!
 
-This is SoundProof
-
+This is ProofSound
 **`Creator and Designer Programmer(Backend contractor, FullStack Dev) | Musician`**
 
 I'm a self-learned Web developer and designer. Planning and creating a real-life and realistic forms. Also a street tutorian.
