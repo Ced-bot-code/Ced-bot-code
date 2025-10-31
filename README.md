@@ -103,5 +103,3 @@ Mathematics tutorials
 <br>
 <br>
 
-
-  <img width="300px" src="Proof.png"/>
