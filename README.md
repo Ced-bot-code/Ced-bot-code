@@ -6,7 +6,7 @@ This is ProofSound
 I'm a self-learned Web developer and designer. Planning and creating a real-life and realistic forms. Also a street tutorian.
 
 <p align="left">
-    <a href="https://www.facebook.com/profile.php?id=100008712939404" title="ProofNewton">Visit me here!</a>
+    <a href="https://www.facebook.com/profile.php?id=100008712939404" title="ProofSounds">Visit me here!</a>
 </a>
 <img align="left" alt="php" width="24px" style="padding-right:8px" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" />
 
