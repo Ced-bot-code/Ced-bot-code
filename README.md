@@ -3,8 +3,8 @@
 This is ProofSound
 **`Creator and Designer Programmer(Backend contractor, FullStack Dev) | Musician`**
 
-I'm a self-learned Web developer and designer. Planning and creating a real-life and realistic forms. Also a street tutorian.
-
+Self-taught Web & Backend Developer | System Designer
+I build practical, real-world systems with structured workflows and intelligent form design. Passionate about turning complex ideas into functional applications. Outside development, I mentor and teach aspiring learners in the community.
 <p align="left">
     <a href="https://www.facebook.com/profile.php?id=100008712939404" title="ProofSounds">Visit me here!</a>
 </a>
@@ -37,23 +37,18 @@ I'm a self-learned Web developer and designer. Planning and creating a real-life
 <summary>
 My Journey
 </summary>
-    When I was in high school, I started studying HTML, CSS, and basic coding. However, during that time, the programming language taught in school was QBASIC. Honestly, I didn’t like QBASIC—sorry!
-
-In 2015, I enrolled at Sibonga Community College as an IT student. Unfortunately, I had to quit because tuition wasn't free back then. During that break, I studied a bit of Algebra. Even though it was challenging, I pushed through and trained myself to solve problems because I wanted to learn.
-
-I returned to school in 2018, about two years after I stopped. This time, the units were free—hehehe—so I grabbed the opportunity to continue, despite financial and material difficulties. I worked to support my studies, though I wasn’t able to stick with the job for long. Still, I’m very thankful to those who helped me continue going to school. Their support allowed me to keep pursuing my goals and dreams.
-
-When the lockdown came, I bought a phone so I could continue studying and keep up with my coursework. Eventually, I made a friend who had a computer, and little by little, I started learning more about programming. Once we finished our school projects, we would sometimes go swimming in the sea since they lived nearby.
-
-In my third year, second semester, I made new friends from other batches. One of them was also into programming, and through him, I met more friends. We hung out, worked on projects together, and shared knowledge—whether serious or silly topics, we talked about everything.
-
-When my friends and I finally graduated, I felt truly happy. We all made it, and I’m grateful we did it together.
+    I started studying HTML, CSS, and basic coding at an early stage. However, at that time, the programming language taught in school was QBASIC—and honestly, I didn’t like it. Sorry!
+In 2015, I enrolled at Sibonga Community College as an IT student. Unfortunately, I had to stop because tuition wasn’t free back then. During that break, I continued studying on my own, including Algebra. It was challenging, but I pushed myself to solve problems because I genuinely wanted to learn and improve.
+In 2018, about two years after I stopped, I returned to school. This time, the tuition was free—hehe—so I grabbed the opportunity to continue despite financial and material difficulties. I worked to support my studies, although I couldn’t stay long in that job. Still, I’m deeply thankful to the people who helped me continue my education. Their support allowed me to keep pursuing my goals and dreams.
+When the lockdown came, I bought a phone so I could continue studying and keep up with my coursework. Later on, I made a friend who had a computer. Little by little, I started learning more about programming. After finishing our school projects, we would sometimes go swimming in the sea since they lived nearby. It was a simple but memorable time.
+In my third year, second semester, I met new friends from other batches. One of them was also passionate about programming, and through him, I met even more friends. We spent time together working on projects, sharing knowledge, and talking about everything—serious topics and even silly ones.
+When my friends and I finally graduated, I felt truly happy. We all made it. I’m grateful that we achieved it together.
 </details>
 <details>
     <summary>
        How did I learned programming?
     </summary>
-    What I usually do is read first, then practice. After that, I take notes so I don't forget, because not all the code I practice is easy to memorize.
+    My learning process is simple: I read first to understand the concepts, then I practice to apply what I’ve learned. After that, I take notes to reinforce my understanding, since not all code is easy to memorize. This approach helps me retain knowledge and continuously improve my skills.
 </details>
 <details>
    <summary>
